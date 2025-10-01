@@ -1,5 +1,5 @@
-// Cargable.java
-public interface Cargable {
+// Cargar.java
+public interface Cargar {
     void cargarPasajero();
     void descargarPasajero();
 }

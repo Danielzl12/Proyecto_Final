@@ -1,9 +1,9 @@
-// ComponenteNoria.java
-public abstract class ComponenteNoria {
+
+public abstract class CaracteristicasNoria {
     protected int id;
     protected String nombre;
 
-    public ComponenteNoria(int id, String nombre) {
+    public CaracteristicasNoria(int id, String nombre) {
         this.id = id;
         this.nombre = nombre;
     }

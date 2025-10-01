@@ -1,5 +1,5 @@
 // Cabina.java
-public class Cabina extends ComponenteNoria implements Cargable {
+public class Cabina extends CaracteristicasNoria implements Cargar {
     private int capacidad;
     private int pasajerosActuales = 0;  // cuántos hay dentro
     private int contadorPasajeros = 0;  // para numerarlos (Pasajero 1, 2, 3…)
